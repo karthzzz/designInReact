@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+My second repo with react. Branch fruitsNveggies has search fruits among fruits and veggies implemented. Master branch is where I am learning other stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
